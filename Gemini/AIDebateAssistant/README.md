@@ -29,7 +29,7 @@ debate-assistant/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/debate-assistant.git
+git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Gemini/AIDebateAssistant
 cd debate-assistant
 ```
 
