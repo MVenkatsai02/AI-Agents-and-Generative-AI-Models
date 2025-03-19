@@ -1,0 +1,47 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Agno and Gemini cache/logs
+agno_cache/
+*.log
+
+# Dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit cache
+.streamlit/
+.db/
+secrets.toml
+
+# Node.js dependencies (if frontend uses Node)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Docker files
+docker-compose.override.yml
+*.tar
+*.img
+
+# VS Code settings
+.vscode/
+.history/
+
+# OS-specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+streamlit
+agno
+google
+google-generativeai
+python-dotenv
+openai
+google-genai
