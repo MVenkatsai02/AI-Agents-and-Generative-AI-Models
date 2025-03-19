@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ai-code-pipeline.git
+   git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Agents/Python Development Pipeline
    cd ai-code-pipeline
    ```
 2. Install dependencies:
