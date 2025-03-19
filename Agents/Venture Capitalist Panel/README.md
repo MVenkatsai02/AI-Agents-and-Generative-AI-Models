@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/ai-vc-panel.git
+   git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Agents/Venture%20Capitalist%20Panel
    cd ai-vc-panel
    ```
 2. Install dependencies:
