@@ -13,7 +13,7 @@ This is a **Streamlit-based web application** that generates professional **resu
 ## 🛠️ Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/ai-resume-generator.git
+   git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Gemini/Resumegenerator
    cd ai-resume-generator
    ```
 2. **Install dependencies**
