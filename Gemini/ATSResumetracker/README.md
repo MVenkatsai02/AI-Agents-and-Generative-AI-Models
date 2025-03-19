@@ -25,7 +25,7 @@ smart-ats/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/smart-ats.git
+git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Gemini/ATSResumetracker
 cd smart-ats
 ```
 
