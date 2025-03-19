@@ -14,7 +14,7 @@ To run this application, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository/ai-executive-leadership.git
+git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Agents/Executive Leadership Team
 cd ai-executive-leadership
 ```
 
