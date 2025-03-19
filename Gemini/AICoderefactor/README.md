@@ -25,7 +25,7 @@ code-refactor-ai/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/code-refactor-ai.git
+git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Gemini/AICoderefactor
 cd code-refactor-ai
 ```
 
