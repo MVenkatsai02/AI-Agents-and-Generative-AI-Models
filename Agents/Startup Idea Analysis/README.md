@@ -24,7 +24,7 @@ Ensure you have Python installed (version 3.8 or later).
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/startup-idea-analysis-agent.git
+   git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Agents/Startup%20Idea%20Analysis
    cd startup-idea-analysis-agent
    ```
 2. Install dependencies:
