@@ -31,7 +31,7 @@ multi-agent-code-generator/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/multi-agent-ai-code-generator.git
+git clone https://github.com/MVenkatsai02/AI-Agents-and-Generative-AI-Models/tree/main/Agents/Full Stack
 cd multi-agent-ai-code-generator
 ```
 
